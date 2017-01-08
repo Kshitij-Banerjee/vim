@@ -1,2 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/kshitij.banerjee/flipkart/ekart-seller-service-cms/build/reports/checkstyle'
+let g:netrw_dirhist_2='/Users/kshitij.banerjee/.tmux'
+let g:netrw_dirhist_3='/Users/kshitij.banerjee/.rvm/rubies/ruby-1.9.3-p551/lib/ruby/gems/1.9.1/gems/activerecord-3.1.10.3/lib/active_record'
+let g:netrw_dirhist_4='/Users/kshitij.banerjee/Kshitij-Banerjee/pawsntails'
+let g:netrw_dirhist_5='/Users/kshitij.banerjee/Kshitij-Banerjee/pawsntails/pawsntails-api/db'
+let g:netrw_dirhist_6='/Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File Templates/Source/C++ File.xctemplate'
+let g:netrw_dirhist_7='/Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File Templates/Source/C File.xctemplate/Default'
+let g:netrw_dirhist_8='/Applications/Xcode.app/Contents/Developer/Library/Xcode/Templates/File Templates/Source/C++ File.xctemplate'
+let g:netrw_dirhist_9='/Users/kshitij.banerjee/Documents/SweetScape'
